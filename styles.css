@@ -1,0 +1,50 @@
+#experiencia {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  #experiencia h2 {
+    text-align: center;
+    color: #333;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .experiencia-item {
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .experiencia-item h3 {
+    color: #007BFF;
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+  }
+  
+  .experiencia-item .empresa {
+    font-style: italic;
+    color: #555;
+  }
+  
+  .experiencia-item .fecha {
+    font-size: 0.9rem;
+    color: #888;
+    margin-bottom: 10px;
+  }
+  
+  .experiencia-item ul {
+    list-style-type: none;
+    padding-left: 20px;
+  }
+  
+  .experiencia-item ul li {
+    font-size: 1rem;
+    color: #333;
+    margin-bottom: 5px;
+  }
+  
