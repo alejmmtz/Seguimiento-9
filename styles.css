@@ -1,43 +1,4 @@
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: #f0f4f8;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-  }
-  .datos-personales {
-    background: white;
-    padding: 2rem 3rem;
-    border-radius: 10px;
-    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
-    max-width: 400px;
-    width: 100%;
-  }
-  .datos-personales h2 {
-    text-align: center;
-    color: #333;
-    margin-bottom: 1.5rem;
-    font-weight: 600;
-  }
-  .dato {
-    margin-bottom: 1rem;
-    color: #555;
-  }
-  .dato label {
-    font-weight: 600;
-    display: block;
-    margin-bottom: 0.3rem;
-  }
-  .dato span {
-    background: #e7f0fe;
-    padding: 0.3rem 0.6rem;
-    border-radius: 5px;
-    display: inline-block;
-    color: #0b3d91;
-    font-weight: 500;
-  }
+
   .formacion-academica {
     background: white;
     padding: 2rem 3rem;
